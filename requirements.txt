@@ -1,4 +1,0 @@
-python-bale-bot>=0.0.8
-python-telegram-bot==13.12
-jdatetime
-python-dotenv
